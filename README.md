@@ -1,3 +1,7 @@
+# MUGEN Dataset
+[Project Page](https://mugen-org.github.io/)
+[Paper](https://arxiv.org/pdf/2204.08058.pdf)
+
 ## Setup
 ```
 conda create --name MUGEN python=3.6
