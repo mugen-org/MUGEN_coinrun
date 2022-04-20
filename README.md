@@ -1,5 +1,5 @@
 # MUGEN Dataset
-[Project Page](https://mugen-org.github.io/) | [Paper](https://arxiv.org/pdf/2204.08058.pdf)
+[Project Page](https://mugen-org.github.io/) | [Paper](https://arxiv.org/abs/2204.08058)
 
 ## Setup
 ```
